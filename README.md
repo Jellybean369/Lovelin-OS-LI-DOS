@@ -10,7 +10,7 @@ You'll need the folowing
 # Instalation and Runing
 Run cmd and go to the directory where Lovelin OS and run the following command
 > py -3.12 Lovelin_OS_v10.py
-It's best to use Python 3.12 for the best experience
+ It's best to use Python 3.12 for the best experience
 
 # Notes
 I wont update this very othen, you are welcome to fork this repo, just make sure to credit me
