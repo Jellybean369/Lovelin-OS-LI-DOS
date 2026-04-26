@@ -1,5 +1,5 @@
 # Lovelin OS plus LI DOS
-A Fanticy Operating System made in Python 3.12!
+A Fantasy Operating System made in Python 3.12!
 
 # Setup and Requirements
 You'll need the folowing
