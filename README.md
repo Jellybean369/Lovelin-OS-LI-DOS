@@ -9,7 +9,7 @@ You'll need the folowing
 
 # Instalation and Runing
 Run cmd and go to the directory where Lovelin OS and run the following command
-> py -3.12 Lovelin_OS_v10.py
+```py -3.12 Lovelin_OS_v10.py```
 # Note when useing
 It's best to use Python 3.12 for the best experience, this does use Pygame, which is best to be used for 3.12
 
