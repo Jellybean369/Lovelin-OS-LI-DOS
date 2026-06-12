@@ -29,14 +29,14 @@ def debug_log(message):
 pygame.init()
 pygame.mixer.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Lovelie FOS v10.0")
+pygame.display.set_caption("Lovelin OS v10.0")
 clock = pygame.time.Clock()
 
 def boot_sequence():
     """Simulates a verbose BIOS/Kernel boot screen."""
     font = pygame.font.SysFont("Courier", 18)
     boot_logs = [
-        "LOVELIE BIOS v9.5.2...",
+        "LOVELIN BIOS v9.5.2...",
         "CHECKING RAM... 16384MB OK",
         "INITIALIZING VIRTUAL DISK... OK",
         "LOADING KERNEL.DLL... DONE",
